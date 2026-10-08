@@ -52,24 +52,7 @@ header,footer
     padding-top: 5px;
     padding-bottom: 5px;
 }
-aside
-{
-    background-color: beige;
-    float: right;
-    width: 300px;
-    margin: 5px;
-    padding: 5px;
-}
-figure
-{
-    position: relative;
-    width: 220px;
-    height: 200px;
-    background-color: aliceblue;
-    margin: 5px;
-    padding: 5px;
-    border: 1px solid black;
-}
+
 img
 {
     width: 220px;
@@ -84,15 +67,7 @@ h1,h2,h3,h4,h5,h6,p,li {
     height: 80px;
     background-color: #10A196;
 }
-.clear
-{
-    clear: both;
-}
-#banner
-{
-    height:120px;
-    background-color: grey;
-}
+
 body{
     font-family: "JetBrains Mono";
     padding: 0px;

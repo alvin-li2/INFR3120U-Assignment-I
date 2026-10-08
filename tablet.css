@@ -20,35 +20,11 @@ h1,h2,h3,h4,h5,h6,p,li {
     background-color: white;
 }
 
-#right-column {
-    float: none;
-    height: 600px;
-    background-color: DarkOrange;
-}
-
-#left-column {
-    float: none;
-    height: 120px;
-}
-
 #footer {
     height: 80px;
     background-color: white;
 }
 
-#banner {
-    height: 60px;
-    background-color: black;
-}
-
-.box {
-    width: 45%;
-    min-height: 120px;
-    float: left;
-    background-color: black;
-    margin: 15px;
-    opacity: 1;
-}
 
 .button {
     font-size: x-large;
@@ -65,8 +41,4 @@ h1,h2,h3,h4,h5,h6,p,li {
 
 .button:hover {
     box-shadow: 5px 5px 3px black;
-}
-
-.clear {
-    clear: both;
 }

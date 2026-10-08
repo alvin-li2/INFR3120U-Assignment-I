@@ -74,12 +74,6 @@ img
 {
     width: 220px;
 }
-figcaption
-{
-    position: bottom;
-    background-color: #000000;
-    color: aliceblue;
-}
 
 h1,h2,h3,h4,h5,h6,p,li {
     margin: 15px;
@@ -100,7 +94,7 @@ h1,h2,h3,h4,h5,h6,p,li {
     background-color: grey;
 }
 body{
-    font-family:JetBrains Mono;
+    font-family: "JetBrains Mono";
     padding: 0px;
     margin: 0px;
     background: linear-gradient(to bottom, rgb(16, 124, 160) 0%,#10A196 100%);
